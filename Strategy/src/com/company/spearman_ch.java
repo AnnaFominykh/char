@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.ArrayList;
 
-public class spearman_ch extends Character{
+public class spearman_ch implements Character{
     ArrayList<Character> spearmen=new ArrayList<>();
     int id=1;
     int Health=14;
